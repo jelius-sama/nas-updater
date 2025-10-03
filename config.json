@@ -1,0 +1,6 @@
+{
+    "Version": "1.0.0",
+    "KomgaServiceFile": "/etc/systemd/system/komga.service",
+    "KomgaDir": "/opt/komga",
+    "ImmichDir": "/opt/immich"
+}
